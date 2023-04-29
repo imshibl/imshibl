@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I am Shibil.<br>👀 I’m interested in mobile and full-stack development.<br>🔭 I’m currently working as a remote mobile app developer.<br>👯 I’m looking to collaborate on native android and flutter projects.<br>🌱 I’m currently learning data structures and algorithms to upskill myself.<br>
+👋 Hi, I am Shibil.<br>👀 I’m interested in mobile and full-stack development.<br>🔭 I’m currently working as a freelance developer.<br>👯 I’m looking to collaborate on native android and flutter projects.<br>🌱 I’m currently learning data structures and algorithms to upskill myself.<br>
 
 
 ## 🌐 Socials:
