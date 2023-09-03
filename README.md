@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I am Shibil.<br>🔭 I’m a freelance Software Developer.<br>👀 I’m interested in Mobile App and Full-Stack development.<br>
+👋 Hi, I am Shibil.<br>🔭 I’m a Tech-Entrepreneur and Software Developer.<br>👀 I’m interested in Mobile App and Full-Stack development.<br>
 
 
 ## 🌐 Socials:
