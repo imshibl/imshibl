@@ -1,9 +1,9 @@
 
-<img src="https://raw.githubusercontent.com/imshibl/imshibl/main/.github/gif/intro-heading-github.gif" alt="MasterHead" width="1000" height="450" style="display: block; max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 1s ease-in-out;">
+<img src="https://raw.githubusercontent.com/imshibl/imshibl/main/.github/gif/intro-heading-github.gif" alt="MasterHead" width="1000" height="450"/>
 
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/imshibl/imshibl/main/.github/gif/coding-vector.png">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/imshibl/imshibl/main/.github/gif/coding-vector.png"/>
 
 ## 💫 About Me: 
 👋 Hi, My name is **Mohammed Shibil**.<br>🔭 I’m a Software Developer and a Tech-Entrepreneur <br>👀 I mainly focus on Mobile App and Full-Stack development <br> 👨‍💻 Iam currently working as a freelancer <br>
