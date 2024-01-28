@@ -8,7 +8,7 @@
 ## 💫 About Me: 
 👋 Hi, My name is **Mohammed Shibil**.<br>🔭 I’m a Software Developer and a Tech-Entrepreneur <br>👀 I mainly focus on App Development and Machine Learning  <br> 👨‍💻 Iam currently working as a freelancer <br>
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-5091CD?style=for-the-badge&logo=pdf&logoColor=white)](https://raw.githubusercontent.com/imshibl/imshibl/main/.github/Mohammed_Shibil_M_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://raw.githubusercontent.com/imshibl/imshibl/main/.github/Mohammed_Shibil_M_Resume.pdf)
 
 
 ## 🌐 Socials:
