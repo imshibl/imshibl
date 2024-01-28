@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/imshibl/imshibl/main/.github/gif/coding-vector.png"/>
 
 ## 💫 About Me: 
-👋 Hi, My name is **Mohammed Shibil**.<br>🔭 I’m a Software Developer and a Tech-Entrepreneur <br>👀 I mainly focus on Mobile App and Full-Stack development <br> 👨‍💻 Iam currently working as a freelancer <br>
+👋 Hi, My name is **Mohammed Shibil**.<br>🔭 I’m a Software Developer and a Tech-Entrepreneur <br>👀 I mainly focus on App Development and Machine Learning  <br> 👨‍💻 Iam currently working as a freelancer <br>
 
 
 
