@@ -3,7 +3,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/imshibl/imshibl/main/.github/gif/coding-vector.png"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/imshibl/imshibl/main/.github/vector_img_1.png"/>
 
 ## 💫 About Me: 
 👋 Hi, My name is **Mohammed Shibil**.<br>🔭 I’m a Software Developer and a Tech-Entrepreneur <br>👀 I mainly focus on App Development and Machine Learning  <br> 👨‍💻 Iam currently working as a freelancer <br>
@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shibil-m-5350b61a3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10116694) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/bilcodes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shibl_) [![Medium](https://img.shields.io/badge/Medium-%23FF000000.svg?logo=Medium&logoColor=white)](https://medium.com/@bilcodes) [![Google Play Store](https://img.shields.io/badge/PlayStore-%23FFFFFFFF.svg?logo=google-play&logoColor=black)](https://play.google.com/store/apps/developer?id=Mohammed+Shibil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shibil-m-5350b61a3) [![Gmail](https://img.shields.io/badge/Gmail-EE0000?logo=gmail&logoColor=white)](mailto:bilcodes@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10116694) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/bilcodes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shibl_) [![Medium](https://img.shields.io/badge/Medium-%23FF000000.svg?logo=Medium&logoColor=white)](https://medium.com/@bilcodes) [![Google Play Store](https://img.shields.io/badge/PlayStore-%23FFFFFFFF.svg?logo=google-play&logoColor=black)](https://play.google.com/store/apps/developer?id=Mohammed+Shibil)
 [![Fiverr](https://img.shields.io/badge/Fiverr-%234ea94b.svg?logo=Fiverr&logoColor=white)](https://www.fiverr.com/shibil_m)
 
 
