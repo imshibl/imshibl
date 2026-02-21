@@ -11,9 +11,9 @@
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://raw.githubusercontent.com/imshibl/imshibl/main/.github/Mohammed_Shibil_M_Resume.pdf)
 
 
-## 🌐 Socials:
+<!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shibil-m-5350b61a3) [![Gmail](https://img.shields.io/badge/Gmail-EE0000?logo=gmail&logoColor=white)](mailto:bilcodes@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10116694) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/bilcodes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bilcodes) [![Medium](https://img.shields.io/badge/Medium-%23FF000000.svg?logo=Medium&logoColor=white)](https://medium.com/@bilcodes) [![Google Play Store](https://img.shields.io/badge/PlayStore-%23FFFFFFFF.svg?logo=google-play&logoColor=black)](https://play.google.com/store/apps/developer?id=Mohammed+Shibil+M)
-[![Fiverr](https://img.shields.io/badge/Fiverr-%234ea94b.svg?logo=Fiverr&logoColor=white)](https://www.fiverr.com/shibil_m)
+[![Fiverr](https://img.shields.io/badge/Fiverr-%234ea94b.svg?logo=Fiverr&logoColor=white)](https://www.fiverr.com/shibil_m)-->
 
 
 ## 💻 Tech Stack:
